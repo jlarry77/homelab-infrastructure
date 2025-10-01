@@ -145,7 +145,7 @@ A large part of this project focuses on scripting and automation:
 ---
 
 ## 📬 Contact / Connect
-- GitHub: [@jlarry77](https://github.com/jlarry77)
+- GitHub: [@justynlarry](https://github.com/justynlarry)
 - LinkedIn: [linkedin.com/in/justynlarry](https://www.linkedin.com/in/justyn-larry-8402a7348/)
 
 > *"Built not bought. Learned by breaking."*
